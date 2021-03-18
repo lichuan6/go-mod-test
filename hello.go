@@ -6,3 +6,6 @@ func Hello() string {
 func HelloV4() string {
     return "HelloV4"
 }
+func Hi() string {
+    return "Hi"
+}
