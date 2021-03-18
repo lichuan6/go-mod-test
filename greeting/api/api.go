@@ -1,6 +1,6 @@
 package api
 
-func HelloApi() string {
-    return "Api"
+func API() string {
+    return "API"
 }
 
